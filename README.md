@@ -245,7 +245,7 @@ Using bayesian A/B testing, I was able to draw the following conclusions:
 
 ## Potential Influencing Factors
 
-There are always factors that may influence the data. As data scientists, we try to set up our testing in a way that minimizes these factors, however in this case, I can think of a few:
+There are always factors that may influence the data. I tried to set up my testing in a way that minimizes these factors, however in this case, I can think of a few:
 - Not all combine attendees participate in every drill. Thus, some first round picks may, for example, have only participated in the 40-yard dash.
 - Some first round picks participate in no drills.
 
